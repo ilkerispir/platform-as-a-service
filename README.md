@@ -73,20 +73,27 @@
 ```bash
   web: npm start
 ```
-###  Deploy Command
+###  Create Project
 ```bash
-  az webapp up --name ilker
+  heroku create
+```
+
+###  Push to Heroku Repo
+```bash
+  git push heroku HEAD
 ```
 ## Images
-### Deploy
+### Create Project
 ![1](images/app-service/1.png)
+
+### Deploy
+![2](images/app-service/2.png)
 
 ### Prove
 ![2](images/app-service/2.png)
 
-### Azure Console Interface
-![3](images/app-service/3.png)
-
+### Heroku Console Interface
+![4](images/app-service/4.png)
 
 ## Authors
 
