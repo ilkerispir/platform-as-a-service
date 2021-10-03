@@ -90,7 +90,7 @@
 ![2](images/heroku/2.png)
 
 ### Prove
-![2](images/heroku/2.png)
+![2](images/heroku/3.png)
 
 ### Heroku Console Interface
 ![4](images/heroku/4.png)
