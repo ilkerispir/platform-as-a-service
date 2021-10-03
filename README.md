@@ -69,6 +69,10 @@
 
 ### [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
+###  Procfile File
+```bash
+  web: npm start
+```
 ###  Deploy Command
 ```bash
   az webapp up --name ilker
