@@ -84,16 +84,16 @@
 ```
 ## Images
 ### Create Project
-![1](images/app-service/1.png)
+![1](images/heroku/1.png)
 
 ### Deploy
-![2](images/app-service/2.png)
+![2](images/heroku/2.png)
 
 ### Prove
-![2](images/app-service/2.png)
+![2](images/heroku/2.png)
 
 ### Heroku Console Interface
-![4](images/app-service/4.png)
+![4](images/heroku/4.png)
 
 ## Authors
 
