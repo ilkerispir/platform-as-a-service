@@ -99,6 +99,25 @@
 
 ### [Vercel CLI](https://vercel.com/docs/cli)
 
+### Config.json
+```bash
+  {
+    "version": 2,
+    "builds": [
+        {
+            "src": "./index.js",
+            "use": "@vercel/node"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/"
+        }
+    ]
+  }
+```
+
 ###  Deploy Command
 ```bash
   vercel
