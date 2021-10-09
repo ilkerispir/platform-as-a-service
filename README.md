@@ -97,7 +97,7 @@
 
 ## [Vercel](https://vercel.com/)
 
-### [Vercel CLI](https://vercel.com/)
+### [Vercel CLI](https://vercel.com/docs/cli)
 
 ###  Deploy Command
 ```bash
